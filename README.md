@@ -63,7 +63,7 @@ NumberGuessingGame/
 └── README.md
 
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 ### Requirements:
 
@@ -116,10 +116,10 @@ Through this project, I learned:
 * Working with file handling for data storage
 * Creating an interactive desktop application
 
-## 👩‍💻 Author
+## Author
 **Khadija Mehmood**
 
-## ⭐ Future Improvements
+## Future Improvements
 
 * Add sound effects
 * Add user profiles
