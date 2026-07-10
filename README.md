@@ -6,8 +6,6 @@ Number Guessing Game is a Java-based desktop application developed using **Java 
 
 This project demonstrates the implementation of **Object-Oriented Programming (OOP)** concepts, GUI development, event handling, and file handling in Java.
 
----
-
 ##  Features
 
 *  Interactive graphical user interface using Java Swing
@@ -28,8 +26,6 @@ This project demonstrates the implementation of **Object-Oriented Programming (O
 * Play Again option
 * Dynamic background changes according to game status
 
----
-
 ## Technologies Used
 
 * **Programming Language:** Java
@@ -43,25 +39,6 @@ This project demonstrates the implementation of **Object-Oriented Programming (O
 * File Handling
 * Event Handling
 * Exception Handling
-
----
-
-## Project Structure
-
-NumberGuessingGame/
-│
-├── src/
-│   ├── Game.java
-│   ├── NumberGuessingGameGUI.java
-│   └── ScoreManager.java
-│
-├── screenshots/
-│
-├── bestscore.txt
-├── .project
-├── .classpath
-└── README.md
-
 
 ## How to Run the Project
 
@@ -87,8 +64,6 @@ NumberGuessingGame/
    Run → Run As → Java Application
    
 The game window will open, and you can start playing.
-
----
 
 ## How to Play
 
